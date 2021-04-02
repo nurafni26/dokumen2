@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">dokumen2</string>
+    <string name="second_loyout">Second Loyout</string>
+    <string name="searching">searching</string>
+    <string name="area">Area</string>
+    <string name="nama">Nama</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="state">State</string>
+    <string name="zip">Zip</string>
+    <string name="email">Email</string>
+    <string name="birthday">Birthday</string>
+    <string name="city">City</string>
+</resources>
